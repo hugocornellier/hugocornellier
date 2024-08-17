@@ -1,4 +1,4 @@
-# Oi, World! I'm Hugo 👋
+# Hello, World! I'm Hugo 👋
 
 ![Profile views](https://komarev.com/ghpvc/?username=ahrwn&label=Profile%20views&color=60598F&style=flat)
 
@@ -20,11 +20,9 @@ I am currently seeking my first Junior Developer role.
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
 </div>
 
-## 🌟 Featured Projects
+## 🌟 Featured Project
 
-- **[Violet Void Theme](https://violet-void-theme.com)** 🟣: **Violet Void Theme** is a set of configuration files designed to give Windows an amazing visual overhaul with a sleek, violet-toned aesthetic. This theme applies consistent violet tones throughout the interface, providing a unique and cohesive look that enhances the user experience. In addition to the visual enhancements, I’ve also integrated several Linux-like functionalities into Windows, making the operating system more powerful and customizable for advanced users. Furthermore, I am working on custom glyphs to enhance the [Windows Terminal](https://github.com/microsoft/terminal) experience, making it more visually appealing and user-friendly.
-
-- **[PowerShell Profile Configuration](#)**: I am working on a comprehensive PowerShell profile that integrates all my custom configurations into a powerful and cohesive setup. This profile is designed to streamline workflows and enhance productivity by leveraging the full potential of PowerShell, combined with my Violet Void Theme. Additionally, I am developing this profile to be fully featured and driven by Linux-like commands, bringing the familiarity and efficiency of Linux command-line tools to the Windows environment. Once finalized, I plan to publish this profile so that others can benefit from a fully optimized and visually appealing PowerShell environment.
+- **[AgeLapse](https://github.com/hugocornellier/AgeLapse)** 📸: **AgeLapse** is an app that allows users to create stabilized time-lapse videos of their faces over time. It auto-aligns images based on facial landmarks, making it easy for anyone to document their aging process or any other long-term transformation.
 
 ## 📈 My GitHub stats
 
