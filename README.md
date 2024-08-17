@@ -11,13 +11,6 @@ I am currently seeking my first Junior Developer role.
 
 </div>
 
-<div class="badges-intro">
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
-</div>
-
 ## 🌟 Featured Project
 
 - **[AgeLapse](https://github.com/hugocornellier/AgeLapse)** 📸: **AgeLapse** is an app that allows users to create stabilized time-lapse videos of their faces over time. It auto-aligns images based on facial landmarks, making it easy for anyone to document their aging process or any other long-term transformation.
@@ -33,7 +26,7 @@ I am currently seeking my first Junior Developer role.
 
 ## 📃 I love documentation
 
-Not many developers like to write documentation, but I do. I believe that a well-documented codebase is as important as the code itself. It’s like a story, telling what the code can do and how it works. I always try to write clear, concise, and useful documentation. My go-to documentation tool is <a href="https://obsidian.md/" target="_blank">Obsidian.md</a>.
+Not many developers like to write documentation, but I do. I believe that a well-documented codebase is as important as the code itself. It’s like a story, telling what the code can do and how it works. I always try to write clear, concise, and useful documentation.
 
 Whenever I write documentation, I try to keep the following steps in mind to ensure the reader gets the most out of it:
 
@@ -42,6 +35,3 @@ Whenever I write documentation, I try to keep the following steps in mind to ens
 3. **How** can the reader use this documentation?
 4. **When** should the reader use this documentation?
 5. **Who** is this documentation for?
-
-![Obsidian](https://img.shields.io/badge/-Obsidian-483699?style=flat&logo=obsidian&logoColor=white)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)
