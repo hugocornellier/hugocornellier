@@ -23,15 +23,3 @@ I am currently seeking my first Junior Developer role.
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hugocornellier&theme=tokyonight&hide_border=true" alt="hugocornellier's Streak" height="165">
   </p>
 </div>
-
-## 📃 I love documentation
-
-Not many developers like to write documentation, but I do. I believe that a well-documented codebase is as important as the code itself. It’s like a story, telling what the code can do and how it works. I always try to write clear, concise, and useful documentation.
-
-Whenever I write documentation, I try to keep the following steps in mind to ensure the reader gets the most out of it:
-
-1. **What** is this documentation about?
-2. **Why** is this documentation important?
-3. **How** can the reader use this documentation?
-4. **When** should the reader use this documentation?
-5. **Who** is this documentation for?
