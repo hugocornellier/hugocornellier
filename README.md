@@ -4,8 +4,6 @@
 
 I'm a **Developer** with a passion for bringing ideas to life. Growing up in the '90s and early 2000s, I fell in love with the internet, and that passion has driven me to design and develop applications and websites that are **fast**, **responsive**, and **accessible** to everyone. 
 
-I am currently seeking my first Junior Developer role. 
-
 - 💼 Interested in working together? Reach out to me via <a href="mailto:hugo.cornellier@gmail.com">email.</a>
 - 💬 Got a question or just curious about something? Feel free to ask!
 
